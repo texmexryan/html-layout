@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box
+}
+header {
+    margin: 0px;
+    background-color: rgb(88, 86, 86);
+    width: 100%;
+    height: 90px;
+}
+  body {
+      background-color: rgb(167, 169, 170)
+  }
+    main{
+        margin: 0px;
+        background-color: rgb(241, 236, 236);
+        width: 70%;
+        height: 90vh;
+        position: relative;
+        left: 180px
+
+    }
+/*p {
+    background-color: rgb(112, 12, 12);
+    width: 20vw;
+    height: 100vh;
+    
+     
+    }
+    #one{
+    background-color: rgb(112, 12, 12);
+    width: 20vh;
+    height: 100vh;
+    float: right;
+    }  */
+    
+    #box {
+        width: 70%;
+        height: 90px;
+        background-color: rgb(2, 2, 2);
+        position: relative;
+        left: 180px
+    
+    }
